@@ -27,7 +27,7 @@ The image recognition system uses HOG descriptors to convert image data into a v
    ```
 2. Install the necessary libraries:
    ```bash
-   pip install numpy scipy matplotlib scikit-image
+   pip install numpy scipy matplotlib 
    ```
 
 ## Usage
